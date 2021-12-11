@@ -15,6 +15,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+   <img align="center" alt="Gk-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="right" alt="Pedro-Solar" src="https://camo.githubusercontent.com/e2a69319b76ad207e78e7b5a39b0430267cc754109de11cedb10eeeacfef6d07/68747470733a2f2f6f72696730302e64657669616e746172742e6e65742f336332312f662f323031352f3136312f362f342f6461726b5f736f756c735f5f5f736f6c616972655f69646c655f62795f7a65646f7461676765722d643877726a74372e676966">
 </div>
   
