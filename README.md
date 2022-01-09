@@ -1,4 +1,4 @@
-## Olá, eu sou o Pedro! 
+## Olá, eu sou o Pedro! Seja Bem-vindo(a) ao meu Github
 
 - 🌱 Estudando para ser um programador full-stack, porem com uma afinidade a mais no front.
 
