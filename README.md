@@ -1,6 +1,7 @@
 ## Olá, eu sou o Pedro! Seja Bem-vindo(a) ao meu Github.
 
 - 🌱 Estudando para ser um programador full-stack, porem com uma afinidade a mais no front.
+- ✍️ Atualmente dando uma olhada em JavaScript.
 
 <div align="center">
   <a href="https://github.com/Artoriasif">
