@@ -3,6 +3,12 @@
 - 🌱 Estudando para ser um programador full-stack, porem com uma afinidade a mais no front.
 - ✍️ Atualmente dando uma olhada em JavaScript.
 
+<div style="display: flex">
+  <img src = "https://komarev.com/ghpvc/?username=danielcsar&label=Profile%20views&color=gray" alt="Artoriasif"  style="float:right, margin-right:10px"/>
+  <img src="https://img.shields.io/github/followers/danielcsar?label=Follow&color=gray" alt="Artoriasif" style="float:left" />
+</div>
+</br>
+
 <div align="center">
   <a href="https://github.com/Artoriasif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Artoriasif&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
