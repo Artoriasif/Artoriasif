@@ -4,8 +4,8 @@
 - ✍️ Atualmente dando uma olhada em JavaScript.
 
 <div style="display: flex">
-  <img src = "https://komarev.com/ghpvc/?username=danielcsar&label=Profile%20views&color=gray" alt="Artoriasif"  style="float:right, margin-right:10px"/>
-  <img src="https://img.shields.io/github/followers/danielcsar?label=Follow&color=gray" alt="Artoriasif" style="float:left" />
+  <img src = "https://komarev.com/ghpvc/?username=Artoriasif&label=Profile%20views&color=gray" alt="Artoriasif"  style="float:right, margin-right:10px"/>
+  <img src="https://img.shields.io/github/followers/Artoriasif?label=Follow&color=gray" alt="Artoriasif" style="float:left" />
 </div>
 </br>
 
