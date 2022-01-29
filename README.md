@@ -25,7 +25,7 @@
   <img align="center" alt="Gk-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="right" alt="Pedro-Solar" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/dc7xodf-c55b7ea6-c406-4533-938a-e14a12a96c4e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YzkzMjg5LTA1NzYtNDY0NS1iYzQ4LWU4MjhhYmVjOTc0MFwvZGM3eG9kZi1jNTViN2VhNi1jNDA2LTQ1MzMtOTM4YS1lMTRhMTJhOTZjNGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ir5MS0PmRqelXUeWwYMOAnnvfWcL8JMvxVEV_Le5Zqw">
+  <img align="right" alt="Pedro-Solar" src="https://c.tenor.com/xhjAqRrbQHwAAAAi/artorias-dark-souls.gif" />
 </div>
   
 ## Contatos 👥
