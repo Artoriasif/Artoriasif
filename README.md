@@ -24,7 +24,7 @@
   <img align="center" alt="Gk-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="right" alt="Pedro-Solar" src="https://c.tenor.com/xhjAqRrbQHwAAAAi/artorias-dark-souls.gif" />
+  <img align="right" alt="Pedro-Solar" src="https://i.pinimg.com/originals/45/e9/54/45e9546d32e9f6f2c74e94f55489482d.gif" />
 </div>
   
 ## Contatos 👥
