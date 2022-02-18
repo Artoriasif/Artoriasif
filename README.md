@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro. Seja bem-vindo(a) ao meu Github!
 
 - 🌱 Estudando para ser um programador full-stack, porem com uma afinidade a mais no front.
-- ✍️ Atualmente dando uma olhada em JavaScript.
+- ✍️ Atualmente dando uma olhada em MY SQL.
 
 <div style="display: flex">
   <img src = "https://komarev.com/ghpvc/?username=Artoriasif&label=Profile%20views&color=gray" alt="Artoriasif"  style="float:right, margin-right:10px"/>
