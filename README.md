@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro. Seja bem-vindo(a) ao meu Github!
 
-- 🌱 Estudando para ser um programador full-stack, porem com uma afinidade a mais no front.
-- ✍️ Atualmente dando uma olhada em MY SQL.
+- 🌱 Estudando para ser um programador Front-end.
+- ✍️ Atualmente dando uma olhada em React JS.
 
 <div style="display: flex">
   <img src = "https://komarev.com/ghpvc/?username=Artoriasif&label=Profile%20views&color=gray" alt="Artoriasif"  style="float:right, margin-right:10px"/>
@@ -20,7 +20,6 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="java" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gk-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
