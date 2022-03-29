@@ -4,7 +4,7 @@
   <a href="https://github.com/Artoriasif">
     <img 
        height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=Artoriasif&show_icons=true&theme=chartreuse-  dark&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=Artoriasif&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"
      />
   <img
      height="150em" 
