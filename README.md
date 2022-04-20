@@ -14,7 +14,7 @@
 
  ## Sobre mim
 - 🌱 Estudando para ser um programador Front-end.
-- ✍️ Atualmente dando uma olhada em React JS, TypeScript e Node.
+- ✍️ Atualmente dando uma olhada em React JS e TypeScript.
 - 🎯 Interesses: Estudar, ler e desenhar.
 
 </br>
